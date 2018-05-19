@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "998027732340",
+    "firebase_url": "https://relax-8538b.firebaseio.com",
+    "project_id": "relax-8538b",
+    "storage_bucket": "relax-8538b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998027732340:android:006bb772e6403277",
+        "android_client_info": {
+          "package_name": "com.example.samrat.relax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998027732340-7cg1nh87trhl5cmtpe3uqipnga8f3jt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samrat.relax",
+            "certificate_hash": "d1aa92019a2b47db1235d6e02fc821ecf6a4790a"
+          }
+        },
+        {
+          "client_id": "998027732340-5r9u852e3q8obolvn588dbtf0ifcqs7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvjBpihbFFvipVJQxIfnofTjm7dVceLqo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998027732340-5r9u852e3q8obolvn588dbtf0ifcqs7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
